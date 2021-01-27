@@ -26,7 +26,7 @@ require (
 	github.com/aristanetworks/glog v0.0.0-20191112221043-67e8567f59f3 // indirect
 	github.com/aristanetworks/goarista v0.0.0-20190325233358-a123909ec740
 	github.com/armon/go-metrics v0.3.0 // indirect
-	github.com/aws/aws-sdk-go v1.34.34
+	github.com/aws/aws-sdk-go v1.36.33
 	github.com/benbjohnson/clock v1.0.3
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
@@ -127,7 +127,7 @@ require (
 	github.com/tidwall/gjson v1.6.0
 	github.com/vishvananda/netlink v0.0.0-20171020171820-b2de5d10e38e // indirect
 	github.com/vishvananda/netns v0.0.0-20180720170159-13995c7128cc // indirect
-	github.com/vjeantet/grok v1.0.0
+	github.com/vjeantet/grok v1.0.1
 	github.com/vmware/govmomi v0.19.0
 	github.com/wavefronthq/wavefront-sdk-go v0.9.2
 	github.com/wvanbergen/kafka v0.0.0-20171203153745-e2edea948ddf
@@ -137,10 +137,10 @@ require (
 	go.starlark.net v0.0.0-20200901195727-6e684ef5eeee
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
-	golang.org/x/net v0.0.0-20200904194848-62affa334b73
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
-	golang.org/x/sys v0.0.0-20200826173525-f9321e4c35a6
+	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
 	golang.org/x/text v0.3.3
 	golang.org/x/tools v0.0.0-20200317043434-63da46f3035e // indirect
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200205215550-e35592f146e4
