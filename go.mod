@@ -46,7 +46,7 @@ require (
 	github.com/aristanetworks/glog v0.0.0-20191112221043-67e8567f59f3 // indirect
 	github.com/aristanetworks/goarista v0.0.0-20190325233358-a123909ec740
 	github.com/armon/go-metrics v0.3.3 // indirect
-	github.com/aws/aws-sdk-go v1.38.69
+	github.com/aws/aws-sdk-go v1.40.31
 	github.com/aws/aws-sdk-go-v2 v1.3.2
 	github.com/aws/aws-sdk-go-v2/config v1.1.5
 	github.com/aws/aws-sdk-go-v2/credentials v1.1.5 // indirect
@@ -275,7 +275,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
 	golang.org/x/mod v0.4.2 // indirect
-	golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
+	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
 	golang.org/x/oauth2 v0.0.0-20210805134026-6f1e6394065a
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069
