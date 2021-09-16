@@ -3,9 +3,9 @@ module github.com/influxdata/telegraf
 go 1.17
 
 require (
-	cloud.google.com/go v0.90.0
+	cloud.google.com/go v0.93.3
 	cloud.google.com/go/bigquery v1.8.0
-	cloud.google.com/go/pubsub v1.15.0
+	cloud.google.com/go/pubsub v1.17.0
 	code.cloudfoundry.org/clock v1.0.0 // indirect
 	collectd.org v0.5.0
 	github.com/Azure/azure-amqp-common-go/v3 v3.0.1 // indirect
@@ -290,7 +290,7 @@ require (
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200205215550-e35592f146e4
 	google.golang.org/api v0.54.0
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20210813162853-db860fec028c
+	google.golang.org/genproto v0.0.0-20210824181836-a4879c3d0e89
 	google.golang.org/grpc v1.40.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
