@@ -163,7 +163,7 @@ require (
 	golang.org/x/net v0.0.0-20220708220712-1185a9018129
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
 	golang.org/x/text v0.3.7
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20211230205640-daad0b7ba671
 	gonum.org/v1/gonum v0.11.0
@@ -178,7 +178,7 @@ require (
 	k8s.io/api v0.24.2
 	k8s.io/apimachinery v0.24.3
 	k8s.io/client-go v0.24.1
-	modernc.org/sqlite v1.17.3
+	modernc.org/sqlite v1.19.1
 )
 
 require (
@@ -310,7 +310,7 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-ieproxy v0.0.1 // indirect
-	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/mdlayher/genetlink v1.2.0 // indirect
 	github.com/mdlayher/netlink v1.6.0 // indirect
 	github.com/mdlayher/socket v0.2.3 // indirect
@@ -402,14 +402,14 @@ require (
 	k8s.io/kube-openapi v0.0.0-20220328201542-3ee0da9b0b42 // indirect
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9 // indirect
 	lukechampine.com/uint128 v1.1.1 // indirect
-	modernc.org/cc/v3 v3.36.0 // indirect
-	modernc.org/ccgo/v3 v3.16.6 // indirect
-	modernc.org/libc v1.16.7 // indirect
-	modernc.org/mathutil v1.4.1 // indirect
-	modernc.org/memory v1.1.1 // indirect
-	modernc.org/opt v0.1.1 // indirect
-	modernc.org/strutil v1.1.1 // indirect
-	modernc.org/token v1.0.0 // indirect
+	modernc.org/cc/v3 v3.38.1 // indirect
+	modernc.org/ccgo/v3 v3.16.9 // indirect
+	modernc.org/libc v1.19.0 // indirect
+	modernc.org/mathutil v1.5.0 // indirect
+	modernc.org/memory v1.4.0 // indirect
+	modernc.org/opt v0.1.3 // indirect
+	modernc.org/strutil v1.1.3 // indirect
+	modernc.org/token v1.0.1 // indirect
 	sigs.k8s.io/json v0.0.0-20211208200746-9f7c6b3444d2 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
