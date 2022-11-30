@@ -3,10 +3,10 @@ module github.com/influxdata/telegraf
 go 1.19
 
 require (
-	cloud.google.com/go/bigquery v1.42.0
+	cloud.google.com/go/bigquery v1.43.0
 	cloud.google.com/go/monitoring v1.7.0
 	cloud.google.com/go/pubsub v1.26.0
-	cloud.google.com/go/storage v1.23.0
+	cloud.google.com/go/storage v1.27.0
 	collectd.org v0.5.0
 	github.com/Azure/azure-event-hubs-go/v3 v3.3.20
 	github.com/Azure/azure-kusto-go v0.8.0
@@ -290,7 +290,6 @@ require (
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.6.0 // indirect
-	github.com/googleapis/go-type-adapters v1.0.0 // indirect
 	github.com/grid-x/serial v0.0.0-20211107191517-583c7356b3aa // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.0 // indirect
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
